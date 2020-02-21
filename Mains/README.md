@@ -20,7 +20,7 @@ The resulting bassins of attractions are represented in Fig. A4 in the *JTB* man
 * `time_series.m`: This script produces time series illustrating the bassins of attraction identified with `basins_attraction.m`.
 The resulting time series are displayed in Fig. A5 in the *JTB* manuscript.
 
-* To draw **phase portraits** for predator-prey dynamics undergoing various magnitude (&epsilon &#8712 ]0, 1] with increment 0.1) and shape (\theta &#8712 ]0, 1] with increment 0.1) of seasonal forcing. Both type I and type II are simulated within the following scripts. For each mean value of discovery rate considered, phase portraits are displayed in a 3D-space ((&epsilon, x(t), y(t))):
+* To draw **phase portraits** for predator-prey dynamics undergoing various magnitude (&epsilon &#8712; ]0, 1] with increment 0.1) and shape (\theta &#8712 ]0, 1] with increment 0.1) of seasonal forcing. Both type I and type II are simulated within the following scripts. For each mean value of discovery rate considered, phase portraits are displayed in a 3D-space ((&epsilon, x(t), y(t))):
 
 	- `phaseportraits.m` when signal variance **is not** controlled. The resulting phase portraits correspond to Fig. 4 in the *JTB* manuscript.
 
