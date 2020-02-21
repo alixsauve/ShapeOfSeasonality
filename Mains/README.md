@@ -9,7 +9,7 @@ In this folder, we share several scripts to simulate predator-prey dynamics with
 
 	- `bifurcdiagr_controlvar_sinus2rect_forcing.m` when considering different shapes of the forcing signal and controlling the signal variance. For these simulations, signal variance thus remains the same despite changing the shape of the forcing signal. The resulting bifurcation diagrams correspond to Fig. 8 in the *JTB* manuscript.
 
-In these three scripts, bifurcation diagrams are drawn for type I and type II functional responses, and for three values of mean discovery rate: {8&pi, 12&pi, 16&pi}.
+In these three scripts, bifurcation diagrams are drawn for type I and type II functional responses, and for three values of mean discovery rate: {8&#960;, 12&#960;, 16&#960;}.
 
 * `bifurcdiagr_zoom_sinus_forcing.m`: This script zooms on specific areas of the bifurcation diagram drawed with `bifurcdiagr_sinus_forcing.m`.
 The resulting bifurcation diagrams correspond to Figs. A2 and A3 in the *JTB* manuscript.
