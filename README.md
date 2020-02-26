@@ -1,4 +1,4 @@
-<https://zenodo.org/badge/doi/10.5281/zenodo.3687867.svg>
+[![DOI](https://zenodo.org/badge/242105530.svg)](https://zenodo.org/badge/latestdoi/242105530)
 
 This repository share MATLAB scripts associate to the *Journal of Theoretical Biology* paper:
 
